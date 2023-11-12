@@ -1,75 +1,47 @@
-![fde24b89a56e6bbf894cb01699a1728c](https://giphy.com/gifs/mr-bean-ineedthisforreactions-gif-WFRmZucEhKnkI.gif)
+# React Tic Tac Toe 🎮✨
 
-# Website Live At
-(https://vikky2810.github.io/tictactoe/)
+![Tic Tac Toe](https://github.com/your-username/tic-tac-toe-project/assets/tic-tac-toe.gif)
 
-# Getting Started with Create React App
+Play the classic game of Tic Tac Toe with a React twist! Challenge your friends, enjoy strategic gameplay, and relive the nostalgia of this timeless game.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo
 
-## Available Scripts
+Check out the live demo [here](https://your-username.github.io/tic-tac-toe-project/) and start playing Tic Tac Toe with friends or against the computer!
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- 🌐 **Multiplayer Mode**: Play against friends or go head-to-head with the computer AI.
+- 🔄 **Restart Game**: Start a new game anytime with the restart button.
+- 🎉 **Responsive Design**: Enjoy seamless gameplay on desktop or mobile devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React.js**: Front-end library for building user interfaces.
+- **CSS Grid**: Stylish layout for the game board.
+- **State Management**: Utilizes React state for tracking game progress.
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository: `git clone https://github.com/your-username/tic-tac-toe-project.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Open `http://localhost:3000` in your browser.
 
-### `npm run build`
+## How to Contribute
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contributions are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request. Check out our [Contribution Guidelines](link-to-contributing.md).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Credits
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Game inspiration from the classic Tic Tac Toe.
+- AI logic inspired by [Minimax Algorithm](https://en.wikipedia.org/wiki/Minimax).
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Made with ❤️ by [Your Name]
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Let the Tic Tac Toe battles begin! 🚀
