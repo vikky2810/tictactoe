@@ -22,7 +22,7 @@ Check out the live demo [here](https://your-username.github.io/tic-tac-toe-proje
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/tic-tac-toe-project.git`
+1. Clone the repository: `git clone https://github.com/vikky2810/tictactoe.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open `http://localhost:3000` in your browser.
@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Vikram Kamble (Viks2810)
 
 Let the Tic Tac Toe battles begin! 🚀
